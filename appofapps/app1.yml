@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Moody-san/k8s-manifests.git
+    repoURL: https://github.com/AjaxAueleke/k8s-manifests.git
     targetRevision: azure
     path: ./manifests/app1
    
